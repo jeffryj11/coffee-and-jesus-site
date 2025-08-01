@@ -1,20 +1,7 @@
+
+@import url('https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css');
+
+/* Optional custom styles */
 body {
-  font-family: Georgia, serif;
-  background-color: #fff8f0;
-  color: #4b2e2e;
-  padding: 2rem;
-}
-header {
-  text-align: center;
-  margin-bottom: 2rem;
-}
-.tagline {
-  font-style: italic;
-  color: #a36f3a;
-}
-footer {
-  text-align: center;
-  margin-top: 3rem;
-  font-size: 0.9rem;
-  color: #7a5c42;
+  line-height: 1.6;
 }
