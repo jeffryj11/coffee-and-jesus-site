@@ -1,48 +1,30 @@
-
 body {
   font-family: 'Georgia', serif;
-  background-color: #fdf7ef;
-  color: #3e2b23;
+  background-color: #fcf9f4;
+  color: #4b3c2e;
   margin: 0;
   padding: 0;
 }
-
 header {
-  background-color: #4b2c28;
-  color: #f3e9dc;
   text-align: center;
-  padding: 1rem 0;
+  padding: 1em;
+  background-color: #f0e9df;
 }
-
-header h1 {
-  margin: 0;
-  font-size: 2rem;
+.logo {
+  width: 80px;
+  height: auto;
 }
-
 .tagline {
   font-style: italic;
-  color: #f8d7a8;
 }
-
-nav {
-  margin-top: 0.5rem;
-}
-
-nav a {
-  color: #f3e9dc;
-  margin: 0 1rem;
-  text-decoration: none;
-}
-
 main {
-  max-width: 800px;
-  margin: 2rem auto;
-  padding: 1rem;
+  max-width: 700px;
+  margin: auto;
+  padding: 1em;
 }
-
 footer {
   text-align: center;
-  font-size: 0.875rem;
-  margin-top: 4rem;
-  color: #5c4438;
+  padding: 1em;
+  background-color: #f0e9df;
+  font-size: 0.9em;
 }
